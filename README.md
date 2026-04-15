@@ -9,7 +9,16 @@ Transformo bases de datos caóticas e incomprensibles en reportes claros que ayu
 * **Resolución de Problemas Lógicos:** Analizo cuellos de botella en tu información para descubrir patrones ocultos que mejoren tu toma de decisiones operativas.
 
 ## 📂 Casos de Éxito y Proyectos
-* 📊 [**Optimización de Engagement Regional (Yelp Dataset)**](./Yelp_Market_Analysis_SQL): Procesamiento de más de 3.4 millones de registros utilizando consultas SQL avanzadas (CTEs, JOINs optimizados) para identificar los mercados geográficos más rentables para la apertura de nuevos negocios.
+
+* 🛒 [**Auditoría de Inventario y Embudo de Conversión (E-commerce)**](https://github.com/fabio163293/Portafolio-Fabio/tree/main/Ecommerce_Conversion_Analysis_SQL)
+  Diagnóstico de la salud del inventario y medición de tasas de conversión de usuarios (Funnel de Ventas) desde el registro hasta la compra final, utilizando SQL para aislar productos reales y eliminar datos de prueba del sistema.
+
+* 📊 [**Optimización de Engagement Regional (Yelp Dataset)**](https://github.com/fabio163293/Portafolio-Fabio/tree/main/Yelp_Market_Analysis_SQL)
+  Procesamiento de más de 3.4 millones de registros utilizando consultas SQL avanzadas (CTEs, JOINs optimizados) para identificar los mercados geográficos más rentables para la apertura de nuevos negocios.
+
+## 📬 Hablemos de tu proyecto
+¿Tienes una base de datos que te da dolores de cabeza o necesitas un reporte que actualmente te toma horas armar a mano? Envíame un mensaje y lo resolvemos con lógica y eficiencia.
+* 📧 Email: fabioalvarez16@gmail.com
 
 ## 📬 Hablemos de tu proyecto
 ¿Tienes una base de datos que te da dolores de cabeza o necesitas un reporte que actualmente te toma horas armar a mano? Envíame un mensaje y lo resolvemos con lógica y eficiencia.
